@@ -19,9 +19,7 @@ In this i made dummy json data so initialy i fetch the those json data , After w
 
 **Client:** Html ,Scss , Javascript
 
-![screencapture-127-0-0-1-5500-employee-html-2024-06-29-09_27_04](https://github.com/QaziSafiya/employee-management/assets/143307549/9b4e1c6f-ade0-45c3-8936-3df20e0b322c)
 
-
-
+![Uploading screencapture-127-0-0-1-5500-employee-html-2024-06-29-10_13_39.png…]()
 
 
