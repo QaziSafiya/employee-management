@@ -19,7 +19,11 @@ In this i made dummy json data so initialy i fetch the those json data , After w
 
 **Client:** Html ,Scss , Javascript
 
+![screencapture-127-0-0-1-5500-employee-html-2024-06-29-10_13_39](https://github.com/QaziSafiya/employee-management/assets/143307549/1fc0239f-435a-46e4-bbe6-da1f3b3c09b4)
 
-![Uploading screencapture-127-0-0-1-5500-employee-html-2024-06-29-10_13_39.png…]()
+
+![screencapture-127-0-0-1-5500-employee-html-2024-06-29-10_15_37](https://github.com/QaziSafiya/employee-management/assets/143307549/b4a3f41b-fd74-4a5d-8952-8624e474ea15)
+
+![screencapture-127-0-0-1-5500-employee-html-2024-06-29-10_17_02](https://github.com/QaziSafiya/employee-management/assets/143307549/d42c99be-daa0-4eb1-8a15-d1ec20c41a17)
 
 
