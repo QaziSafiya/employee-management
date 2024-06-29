@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "firstname":"safiya",
+        "lastname":"siddiqui",
+        "img":"https://img.icons8.com/?size=100&id=14736&format=png&color=000000.png",
+        "email":"siddiquisafiya69@gmail.com",
+        "contact":6396139911,
+        "dob":"23-01-2001",
+        "age":23,
+        "salary":1,
+        "address":"Address"
+
+    },
+
+    {
+        "id":2,
+        "firstname":"sanjana",
+        "lastname":"Bhattiya",
+        "img":"https://img.icons8.com/?size=100&id=14736&format=png&color=000000.png",
+        "email":"sanju123@gmail.com",
+        "contact":9612345638,
+        "dob":"2-01-2001",
+        "age":23,
+        "salary":10,
+        "address":"Address"
+
+    },
+    {
+        "id":3,
+        "firstname":"Nishu",
+        "lastname":"choudhray",
+        "img":"https://img.icons8.com/?size=100&id=14736&format=png&color=000000.png",
+        "email":"nishu@gmail.com",
+        "contact":5647835634,
+        "dob":"3-01-2001",
+        "age":23,
+        "salary":29,
+        "address":"Address"
+
+    },
+    {
+        "id":4,
+        "firstname":"priyanshu",
+        "lastname":"sharma",
+        "img":"https://img.icons8.com/?size=100&id=14736&format=png&color=000000.png",
+        "email":"priyanshu.com",
+        "contact":7896139911,
+        "dob":"23-01-2001",
+        "age":23,
+        "salary":156,
+        "address":"Address"
+
+    },
+    {
+        "id":5,
+        "firstname":"shriya",
+        "lastname":"singh",
+        "img":"https://img.icons8.com/?size=100&id=14736&format=png&color=000000.png",
+        "email":"shriya@gmail.com",
+        "contact":7686139911,
+        "dob":"23-01-2001",
+        "age":23,
+        "salary":123,
+        "address":"Address"
+
+    },
+
+    {
+        "id":6,
+        "firstname":"neha",
+        "lastname":"sharma",
+        "img":"https://img.icons8.com/?size=100&id=14736&format=png&color=000000.png",
+        "email":"neha@gmail.com",
+        "contact":8796139911,
+        "dob":"23-01-2001",
+        "age":23,
+        "salary":134,
+        "address":"Address"
+
+    }
+
+]

@@ -1,0 +1,185 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+*,
+*::after,
+*::before{
+    box-sizing: inherit;
+}
+
+html{
+    box-sizing: border-box;
+    font-size: 62.5%;
+    @media only screen and (max-width:65.7em){
+       font-size: 50%;
+    }
+}
+body{
+background-color: black;
+font-weight: 600;
+line-height: 1.6;
+background-image: linear-gradient(to right bottom ,black, rgb(154, 211, 130));
+background-size: cover;
+background-repeat: no-repeat;
+min-height: 100vh;
+color: white;
+cursor: pointer;
+
+}
+
+
+
+.app{
+    max-width: 100rem;
+    /* border: 2px solid pink; */
+    margin: 2em 18em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    @media only screen and (max-width:56.25em){
+        max-width: 100%;
+        margin: 0
+     }
+}
+.heading{
+    margin: 2em 2em;
+
+}
+
+.add-employee {
+    padding: 1em 2em;
+    margin-bottom: 3rem;
+}
+.employees{
+    max-width: 100rem;
+
+    margin: 2em 18em;
+    border: 2px solid rgb(247, 249, 250);
+    display: flex;
+justify-content:space-around;
+align-items: center;
+
+@media only screen and (max-width:56.25em){
+    max-width: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    
+
+ }
+
+}
+
+
+.employees__names{
+    /* border: 2px solid green; */
+    /* margin: 2em; */
+    padding: 0em 2em;
+    height: 400px;
+    overflow-y: scroll;
+    font-size: 2rem;
+    border-bottom: 1px solid white;
+    display: flex;
+    flex-direction: column;
+}
+
+.employees__single{
+    /* border: 2px solid green; */
+    /* margin: 2em; */
+    padding: 0em 2em;
+    height: 400px;
+   
+   
+    font-size: 2rem;
+    border-bottom: 1px solid white;
+    display: flex;
+    flex-direction: column;
+}
+
+.employees__names--title ,.employees__single--title{
+    text-align: center;
+   border-bottom: 2px solid white;
+    padding: .2em;
+}
+.employees__names--list{
+    display: flex;
+    flex-direction: column;
+    margin: 2em 1em;
+}
+
+.employees__names--info{
+   
+    margin: 2em 1em;
+}
+.employees__names--item{
+/* background-color: rgb(159, 209, 164); */
+margin: .2em;
+padding: .5em;
+}
+.fa-solid {
+    color: red;
+    margin-right: .6em;
+}
+
+.image{
+    width: 100px;
+    height: 100px;
+}
+
+.Name{
+    font-size: 2rem;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.addemployee {
+  display: none;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    left: 0;
+    background-color: rgb(183, 199, 160);
+}
+
+.addemployee__create{
+ 
+    display: flex;
+    flex-direction: column;
+    padding: 4rem;
+    gap: 15px;
+}
+
+.addeemployee__create >div{
+    display: grid;
+    grid-template-columns: 1fr;
+    column-gap: 15px;
+    margin: 2em;
+
+}
+
+.heading__addemployee{
+    color: black;
+}
+.addemployee__create input{
+    padding: .5rem;
+}
+
+.addemployee__create input ::-webkit-outer-spin-button ,
+.addemployee__create input ::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+.addeemployee__create--submit{
+    padding: 6rem !important;
+}
