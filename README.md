@@ -3,10 +3,7 @@
 
 Employee Management system  it is a project which is made in Html,Scss ,Javascript.   
 
-[![npm version][npm-badge]][npm-url]
-[![npm downloads][downloads-badge]][npm-url]
-[![npm bundle size][size-badge]][size-url]
-[![Open issues][issues-badge]][issues-url]
+
 [![⚙️ Build Workflow](https://github.com/antoinezanardi/werewolves-assistant-api-next/actions/workflows/build.yml/badge.svg)](https://github.com/antoinezanardi/werewolves-assistant-api-next/actions/workflows/build.yml)
 [![🚀 Deploy To Production Workflow](https://github.com/antoinezanardi/werewolves-assistant-api-next/actions/workflows/deploy-to-production.yml/badge.svg)](https://github.com/antoinezanardi/werewolves-assistant-api-next/actions/workflows/deploy-to-production.yml)
 [![GitHub release](https://img.shields.io/github/v/release/Abblix/Oidc.Server)](#)
